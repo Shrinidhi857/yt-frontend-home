@@ -1,0 +1,77 @@
+
+.subscribe{
+    background-color:#c90101;
+    color:white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:16px;
+    padding-right:16px;
+    margin-left:8px;
+    vertical-align:top;
+
+    
+    border:none;
+    border-radius:2px;
+    cursor:pointer;
+    margin-right:8px;
+    
+    
+}
+
+.subscribe:hover{
+    opacity: .7;
+    
+}
+
+subscribe:active{
+    opacity:.5;
+
+}
+.join{
+    background-color: white;
+    color:rgb(50, 95, 190);
+    border-radius:5px;
+    margin-right: 8px;
+    cursor:pointer;
+    border-color:rgb(52, 52, 190);
+    transition: opacity .15s;
+    margin-left:20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left:16px;
+    padding-right:16px;
+
+    
+}
+
+.join:hover{
+    background-color: rgb(76, 76, 198);
+    color:white;
+}
+
+join:active{
+    background-color: blue;
+}
+.tweet{
+    background-color: rgb(39, 121, 228);
+    color:rgb(249, 249, 250);
+    border-radius:16px;
+    font-weight:bold;
+    transition: opacity .15s;
+    border:none;
+    padding-left:16px;
+    padding-right:16px;
+    padding-bottom:10px;
+    padding-top:10px;
+    cursor:pointer;
+    vertical-align: top;
+    
+}
+.tweet:hover{
+    opacity: .7;
+    box-shadow:10px 10px 10px rgba(0,0,0,.15);
+
+}
+.tweet:active{
+    background-color: white;
+}

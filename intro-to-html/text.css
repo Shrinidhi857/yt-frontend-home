@@ -1,0 +1,35 @@
+
+.video{
+    font-family: "Sigmar", serif;
+    font-weight:bold;
+    font-size:18px;
+    width:300px;
+
+}
+.stat{
+    font-family: Arial;
+    font-size: 10px;
+    color:rgb(70, 68, 68);
+}
+.video-author
+{
+    font-family: Arial;
+    font-size: 10px;
+    color:rgb(70, 68, 68);
+
+
+}
+.apple
+{
+    font-family: "Sigmar", serif;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+    color:white;
+    background-color: red;
+    font-size:14px;
+    margin-bottom:2px;
+
+    font-weight: 400;
+    font-style: normal;
+}
